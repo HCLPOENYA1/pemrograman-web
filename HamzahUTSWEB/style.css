@@ -1,0 +1,45 @@
+html {
+	position: relative;
+}
+
+body {
+	margin-bottom: 50px;
+}
+
+.jumbotron img {
+	width: 200px;
+	border: 5px solid aquamarine;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: aquamarine;
+}
+
+hr {
+	width: 150px;
+	border-top: 3px solid #fff;
+}
+
+section {
+	min-height: 100px;
+}
+
+
+footer {
+	position: absolute;
+	bottom: 50;
+	width: 50%;
+	height: 50px;
+	background-color: aquamarine;
+	padding-top: 15px;
+}
+
+footer p {
+	color: aquamarine;
+	font-size: 1.0em;
+}
+
+footer p i {
+	color: aquamarine;
+}
